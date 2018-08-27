@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Cotisant
+comment1.params=nom
+comment1.target=Cotisant(java.lang.String)
+comment10.params=
+comment10.target=Cotisant\ getParent()
+comment11.params=visiteur
+comment11.target=java.lang.Object\ accepter(Visiteur)
+comment2.params=nom\ parent
+comment2.target=Cotisant(java.lang.String,\ Cotisant)
+comment3.params=somme
+comment3.target=void\ debit(int)
+comment4.params=somme
+comment4.target=void\ credit(int)
+comment5.params=
+comment5.target=int\ solde()
+comment6.params=
+comment6.target=int\ nombreDeCotisants()
+comment7.params=
+comment7.target=java.lang.String\ nom()
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=parent
+comment9.target=void\ setParent(Cotisant)
+numComments=12

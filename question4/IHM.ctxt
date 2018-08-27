@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IHM
+comment1.params=
+comment1.target=IHM()
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=javax.swing.JTextField\ getSomme()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Gardien
+comment1.params=
+comment1.target=Gardien()
+comment2.params=
+comment2.target=Memento\ getMemento()
+comment3.params=memento
+comment3.target=void\ setMemento(Memento)
+numComments=4

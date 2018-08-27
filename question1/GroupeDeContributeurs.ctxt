@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GroupeDeContributeurs
+comment1.params=nomDuGroupe
+comment1.target=GroupeDeContributeurs(java.lang.String)
+comment10.params=visiteur
+comment10.target=java.lang.Object\ accepter(Visiteur)
+comment2.params=cotisant
+comment2.target=void\ ajouter(Cotisant)
+comment3.params=
+comment3.target=int\ nombreDeCotisants()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.util.List\ getChildren()
+comment6.params=somme
+comment6.target=void\ debit(int)
+comment7.params=somme
+comment7.target=void\ credit(int)
+comment8.params=
+comment8.target=int\ solde()
+comment9.params=
+comment9.target=java.util.Iterator\ iterator()
+numComments=11

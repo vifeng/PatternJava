@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Contributeur
+comment1.params=nom\ somme
+comment1.target=Contributeur(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ solde()
+comment3.params=
+comment3.target=int\ nombreDeCotisants()
+comment4.params=somme
+comment4.target=void\ debit(int)
+comment5.params=somme
+comment5.target=void\ credit(int)
+comment5.text=\n\ throws\ RuntimeException\ new\ RuntimeException("nombre\ n\u00E9gatif\ \!\!\!");\n
+comment6.params=somme
+comment6.target=void\ affecterSolde(int)
+comment6.text=\n\ throws\ RuntimeException\ new\ RuntimeException("nombre\ n\u00E9gatif\ \!\!\!");\n
+comment7.params=visiteur
+comment7.target=java.lang.Object\ accepter(Visiteur)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

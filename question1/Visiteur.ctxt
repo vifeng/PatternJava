@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Visiteur
+comment1.params=c
+comment1.target=java.lang.Object\ visite(Contributeur)
+comment2.params=g
+comment2.target=java.lang.Object\ visite(GroupeDeContributeurs)
+numComments=3

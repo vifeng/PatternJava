@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AbstractTransaction
+comment1.params=
+comment1.target=void\ beginTransaction()
+comment2.params=
+comment2.target=void\ endTransaction()
+comment3.params=
+comment3.target=void\ rollbackTransaction()
+comment4.params=cotisant
+comment4.target=AbstractTransaction(question1.Cotisant)
+comment5.params=somme
+comment5.target=void\ debit(int)
+comment6.params=somme
+comment6.target=void\ crediter(int)
+numComments=7
